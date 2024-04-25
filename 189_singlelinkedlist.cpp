@@ -7,6 +7,10 @@ struct Node {
 	Node* next;
 };
 
-int main(){
+Node* START = NULL;
+
+
+
+int main() {
 	;
 }
